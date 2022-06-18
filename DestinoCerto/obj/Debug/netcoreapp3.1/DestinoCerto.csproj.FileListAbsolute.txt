@@ -1,0 +1,129 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.Views.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.Views.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorAssemblyInfo.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorAssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.TagHelpers.input.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.TagHelpers.output.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorCoreGenerate.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorTargetAssemblyInfo.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorTargetAssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.Views.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csproj.CopyComplete
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\staticwebassets\DestinoCerto.StaticWebAssets.Manifest.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\staticwebassets\DestinoCerto.StaticWebAssets.xml
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.genruntimeconfig.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\PacotesTuristicos.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\CadastrarPacotes.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditarPacotes.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListarPacotes.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.Views.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.Views.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorAssemblyInfo.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorAssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.TagHelpers.input.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.TagHelpers.output.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorCoreGenerate.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\CadastrarPacotes.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditarPacotes.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListarPacotes.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\PacotesTuristicos.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorTargetAssemblyInfo.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorTargetAssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.Views.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csproj.CopyComplete
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\staticwebassets\DestinoCerto.StaticWebAssets.Manifest.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\staticwebassets\DestinoCerto.StaticWebAssets.xml
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC4 - Estruturar e implementar banco de dados para aplicações web\Atividade 2\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.exe
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.deps.json
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.dll
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.pdb
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.Views.dll
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.Views.pdb
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csprojAssemblyReference.cache
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorAssemblyInfo.cache
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorAssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.TagHelpers.input.cache
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.TagHelpers.output.cache
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorCoreGenerate.cache
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\CadastrarPacotes.cshtml.g.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditarPacotes.cshtml.g.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListarPacotes.cshtml.g.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\PacotesTuristicos.cshtml.g.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorTargetAssemblyInfo.cache
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorTargetAssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.Views.pdb
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csproj.CopyComplete
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\staticwebassets\DestinoCerto.StaticWebAssets.Manifest.cache
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\staticwebassets\DestinoCerto.StaticWebAssets.xml
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.dll
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.pdb
+C:\Users\PICHAU\Desktop\Atividade_2_-_Ana_Paula_Irineu\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.genruntimeconfig.cache

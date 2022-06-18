@@ -1,0 +1,53 @@
+@model PacotesTuristicos
+@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = "Cadastrar Pacotes Turísticos";
+}
+
+<h1>Cadastrar Pacote</h1>
+
+<form method="POST" asp-action="CadastrarPacotes">
+
+    <p>
+        <label asp-for="Imagem">Imagem:</label>
+        <input asp-for="Imagem">
+    </p>
+    <p>
+        <label asp-for="Nome">Nome:</label>
+        <input asp-for="Nome" required>
+    </p>
+
+    <p>
+        <label asp-for="Origem">Origem:</label>
+        <input asp-for="Origem" required>
+    </p>
+
+    <p>
+        <label asp-for="Destino">Destino:</label>
+        <input asp-for="Destino" required>
+    </p>
+
+    <p>
+        <label asp-for="Atrativos">Atrativos:</label>
+        <textarea asp-for="Atrativos" required></textarea> 
+    </p>
+
+    <p>
+        <label asp-for="Saida">Saída:</label>
+        <input asp-for="Saida" required>
+    </p>
+
+    <p>
+        <label asp-for="Retorno">Retorno:</label>
+        <input asp-for="Retorno" required>
+    </p>
+    
+    <input asp-for="Usuario" type="hidden" value="@Context.Session.GetInt32("IdUsuario")">
+
+    <p>
+        <input type="submit" value="Enviar">
+    </p>
+</form>
+
+<p>@ViewBag.Mensagem</p>

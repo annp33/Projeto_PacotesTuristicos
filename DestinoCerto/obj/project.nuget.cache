@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/NdwdhH6FTKOx2CIYJeMV91PBOl+Vz6AQecaMUWb8q3RjDboR1rYywphAvlCVXxQyuFOZR1mQx6xW0OsWLjpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PICHAU\\Documents\\ANA\\Senac\\UC4 - Estruturar e implementar banco de dados para aplicações web\\Atividade 2\\Atividade_2_-_Ana_Paula_Irineu\\DestinoCerto\\DestinoCerto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PICHAU\\.nuget\\packages\\mysqlconnector\\2.1.0\\mysqlconnector.2.1.0.nupkg.sha512",
+    "C:\\Users\\PICHAU\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,30 @@
+CREATE DATABASE DestinoCerto;
+
+CREATE TABLE USUARIOS(
+IdUsuario INT(11) NOT NULL,
+Nome VARCHAR(200) NOT NULL,
+Login VARCHAR(100) NOT NULL,
+Senha VARCHAR(100) NOT NULL,
+DataNascimento DATE DEFAULT NULL
+);
+
+INSERT INTO Usuarios (Nome, Login, Senha, DataNascimento) VALUES
+('Alana Silva', 'alana', '12345', '1981-01-01');
+INSERT INTO Usuarios (Nome, Login, Senha, DataNascimento) VALUES ('Melissa Souza', 'melissa', '12345', '1982-02-02');
+INSERT INTO Usuarios (Nome, Login, Senha, DataNascimento) VALUES ('Iris Ferreira', 'iris', '12345', '1983-03-03'); 
+INSERT INTO Usuarios (Nome, Login, Senha, DataNascimento) VALUES ('Joaquim Pereira', 'joaquim', '12345', '1984-04-04');
+INSERT INTO Usuarios (Nome, Login, Senha, DataNascimento) VALUES ('Saul Rodrigues', 'saul', '12345', '1985-05-05');
+
+CREATE TABLE PacotesTuristicos(
+IdPacote INT(4) NOT NULL,
+Imagem VARCHAR(200) DEFAULT NULL,
+Nome VARCHAR(100) NOT NULL,
+Origem VARCHAR(100) NOT NULL,
+Destino VARCHAR(100) NOT NULL,
+Atrativos VARCHAR(200) NOT NULL,
+Saida DATETIME DEFAULT NULL,
+Retorno DATETIME DEFAULT NULL,
+Usuario INT(4) DEFAULT NULL,
+PRIMARY KEY (IdPacote),
+FOREIGN KEY (Usuario) REFERENCES Usuarios(IdUsuario)
+) ;

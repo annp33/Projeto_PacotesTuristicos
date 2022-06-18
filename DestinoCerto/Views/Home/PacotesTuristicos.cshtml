@@ -1,0 +1,27 @@
+@model List<PacotesTuristicos>
+
+@{
+    ViewData["Title"] = "Pacotes Turísticos";
+}
+
+<h1>Pacotes Turísticos</h1>
+
+<table>
+    @foreach (PacotesTuristicos pac in Model)
+    {
+        <tr>
+            <td>
+                <a href="#" style="padding-right: 20px;"><img src="~/img/@pac.Imagem" alt="@pac.Imagem" width="400px"></a>
+                
+            </td>
+            <td>
+                <a href="#"><h2>@pac.Nome</h2></a>
+                <p>Origem: @pac.Origem</p>
+                <p>Destino: @pac.Destino</p>
+                <p>Atrativos: @pac.Atrativos</p>
+                <p>Saída: @pac.Saida</p>
+                <p>Retorno: @pac.Retorno</p>
+            </td>
+        </tr>
+    }
+</table>

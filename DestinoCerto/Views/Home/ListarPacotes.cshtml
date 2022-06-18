@@ -1,0 +1,45 @@
+@model List<PacotesTuristicos>
+
+@{
+    ViewData["Title"] = "Listar Pacotes Turísticos";
+}
+
+<h1>Lista de Pacotes</h1>
+
+<table width="100%">
+    <thead>
+        <tr>
+            <th width="2%">Id</th>
+            <th width="10%">Imagem</th>
+            <th width="10%">Nome</th>
+            <th width="10%">Origem</th>
+            <th width="10%">Destino</th>
+            <th width="10%">Atrativos</th>
+            <th width="10%">Saída</th>
+            <th width="10%">Retorno</th>
+            <th width="10%">Usuário</th>
+            <th width="18%">Operação</th>
+        </tr>
+    </thead>
+    
+    @foreach (PacotesTuristicos u in Model)
+    {
+        <tbody>
+            <tr>
+                <td>@u.IdPacote</td>
+                <td>@u.Imagem</td> 
+                <td>@u.Nome</td>
+                <td>@u.Origem</td>
+                <td>@u.Destino</td>
+                <td>@u.Atrativos</td>
+                <td>@u.Saida</td>
+                <td>@u.Retorno</td>
+                <td>@u.Usuario</td>
+                <td>
+                    <a href="/Home/EditarPacotes?Id=@u.IdPacote">Alterar / </a>
+                    <a href="/Home/RemoverPacotes?Id=@u.IdPacote">Excluir</a> 
+                </td>
+            </tr>
+        </tbody>
+    }
+</table>
